@@ -1,0 +1,54 @@
+.container {
+    margin-bottom: 100px;
+}
+carousel-item {
+    padding: 20px 40px;
+}
+.buy-now-button {
+    background-color: black;
+    padding: 8px 25px;
+    border-radius: 6px;
+    border: none;
+    color: white;
+}
+/*****Smart-Phone-Area Start*****/
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer {
+     border-top:none;
+     background-color: #fff;
+}
+/*****Smart-Phone-Area End*****/
+
+/*****Categories-area Start*****/
+.underline {
+    width: 100px;
+    height: 8px;
+    background-color: orange;
+    border-radius: 10px;
+}
+#bag-card {
+    border-radius: 5px 15px 5px 30px;
+}
+.card-title {
+    margin-bottom: .75rem;
+}
+#shoes-card {
+    border-radius: 40px 5px 40px 5px;
+}
+#Beauty {
+    border-radius: 40px 5px 40px 5px;
+}
+/*****Categories-area End*****/
+
+/*****Contact Us Area Start*****/
+.text-align {
+    text-align: center;
+}
+.footer-area {
+    text-align: center;
+}
+/*****Contact Us Area End*****/
